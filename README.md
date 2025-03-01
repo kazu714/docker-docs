@@ -1,3 +1,14 @@
+
+
+
+3/1
+- [x] docker-docsにあるアプリケーションを手順通りにコンテナ化してrunして、ブラウザで確認する
+
+
+
+
+
+
 # Docker Getting Started Tutorial
 
 This tutorial was written with the intent of helping folks get up and running
